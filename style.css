@@ -72,6 +72,7 @@ padding-bottom: 10px;
 .about-p{
     padding-top: 10px ;
 }
+
 @media screen and (max-width: 600px){
     #maveli{
     width: 200px;
@@ -88,3 +89,47 @@ padding-bottom: 10px;
 
 }
 }
+
+
+
+#contact{
+    background-color:#10805E;
+        background-size: cover;
+        height: 100%;
+        padding-top: 100px;
+        padding-bottom: 100px;
+        align-items: center;
+}
+#contact-p{
+    text-align: left;
+    position: absolute;
+    width: 427px;
+    height: 100px;
+    left: 106px;
+    top: 3490px;
+    
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    
+    color: #E5E5E5;
+}
+.mid{
+    text-align: center;
+
+}
+.mid-h4{
+    color:whitesmoke;
+}
+hr{
+    background-color:#F2AF0E;
+    display: block;
+    margin-left: 60px;
+    margin-right: 60px;
+    overflow: hidden; 
+    border-style: inset; 
+    border-width: 5px;
+}
+
