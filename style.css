@@ -1,4 +1,41 @@
-.about {
+*{
+    box-sizing: border-box;
+}
+#home{
+    background-color: #0D6B4E;
+    position: relative;
+}
+.orange-pills>a{
+    background-color: #F2AF0E;
+    border-radius: 50%;
+}
+#home>h1,#home>h2{
+    color: #DAD0D0;
+    font-size: 10vw;
+}
+#home>h1{
+    font-family: 'Righteous';
+}
+#home>h2{
+    font-family: 'Baloo Chettan 2', cursive;
+}
+.circle{
+    border-radius: 50%;
+    position:absolute;
+    background-color: #F2AF0E;
+    box-shadow:  5px 8px 5px #888888;
+    width: 30%;
+    height: 50%;
+}
+#maveli{
+    position: absolute;
+    right: 0;
+    top: 10%;
+    width: 50%;
+    height: 80%;
+
+}
+#about {
     background-image: radial-gradient(#FAD88B, #F2AF0E);
     background-size: cover;
     height: 100%;
@@ -8,7 +45,7 @@
 
 }
 .about-h3{
-color: #10805E;
+color: #0D6B4E;
 font-weight: bold;
 padding-bottom: 10px;
 }
