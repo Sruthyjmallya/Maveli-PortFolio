@@ -6,6 +6,7 @@
 }
 #home{
     background-color: #0D6B4E;
+    height:100%
 }
 .orange-round-button{
     background-color: #F2AF0E;
@@ -20,6 +21,7 @@
 }
 #home h1,#home h2{
     color: #DAD0D0;
+    padding:20px;
 }
 #home h1{
     font-family: 'Righteous';
@@ -36,8 +38,8 @@
     border-radius: 50%;
     background-color: #F2AF0E;
     box-shadow:  5px 8px 5px #888888;
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     position: absolute;
 
 }
@@ -46,6 +48,12 @@
     height: 600px;
     position: absolute;
 
+}
+.overlayLogo {
+   position:absolute;
+   z-index: 99999;
+   top: 0;
+   left:0;
 }
 #about {
     background-image: radial-gradient(#FAD88B, #F2AF0E);
@@ -63,6 +71,23 @@ padding-bottom: 10px;
 }
 .about-p{
     padding-top: 10px ;
+}
+
+@media screen and (max-width: 600px){
+    #maveli{
+    width: 200px;
+    height: 300px;
+    position:relative;
+
+}
+.circle{
+    border-radius: 50%;
+    width: 0px;;
+    background-color: #F2AF0E;
+    box-shadow:  5px 8px 5px #888888;
+    position:absolute;
+
+}
 }
 
 
@@ -107,3 +132,4 @@ hr{
     border-style: inset; 
     border-width: 5px;
 }
+
