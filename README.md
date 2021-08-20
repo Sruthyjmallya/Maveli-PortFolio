@@ -1,10 +1,8 @@
-<!-- background: #10805E -->
-<!-- font:Righteous -->
-<!-- color:grey -->
-# Hi,
-# I am Mahabali 
------
 
+# Hi,
+#_I am Mahabali_
+-----
+![alt text](images/maveli.png)
 * * *
 
 
