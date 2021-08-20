@@ -73,6 +73,14 @@ padding-bottom: 10px;
     padding-top: 10px ;
 }
 
+#service{
+     background-color: #10805E;
+}
+.service-h3{
+    color:#F2AF0E ;
+    padding-top:100px;
+}
+
 @media screen and (max-width: 600px){
     #maveli{
     width: 200px;
