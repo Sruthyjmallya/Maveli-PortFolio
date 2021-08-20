@@ -8,7 +8,7 @@
 
 ### Want to know more about me
 
-Visit My ![Portfolio](https://sruthyjmallya.github.io/Maveli-PortFolio/)
+Visit My [Portfolio](https://sruthyjmallya.github.io/Maveli-PortFolio/)
 
 
 
