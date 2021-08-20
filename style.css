@@ -6,6 +6,7 @@
 }
 #home{
     background-color: #0D6B4E;
+    height:100%
 }
 .orange-round-button{
     background-color: #F2AF0E;
@@ -20,6 +21,7 @@
 }
 #home h1,#home h2{
     color: #DAD0D0;
+    padding:20px;
 }
 #home h1{
     font-family: 'Righteous';
